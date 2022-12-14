@@ -1,4 +1,4 @@
-# Raycast Extension to search all passwords in Google Chrome password database
+# Raycast Extension to search all passwords in Google Chrome secured database
 
 To install download the repository.
 
